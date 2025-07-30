@@ -34,8 +34,9 @@ Acredito que o código pode transformar vidas e abrir portas – e estou aqui pr
 
 ### 💬 Frase que me move:
 
-> *"Porque o que alguém é vencido, do mesmo é feito escravo."*  
-> — 2 Pedro 2:19
+> *"Com Deus à frente, eu não paro até conquistar."                                     
+  "Porque o que alguém é vencido, do mesmo é feito escravo."*  
+> — 2 Pedro 2:19 
 
 ---
 
