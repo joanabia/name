@@ -58,7 +58,9 @@ Feita com 💙 e fé por <strong>Joana Beatriz</strong>
 <br><br>
 ![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=joanabia&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff) 
 
-<br><br><br>
-
+<br><br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joanabia&show_icons=true&theme=radical
+
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOANABIAO&layout=compact&theme=radical)
