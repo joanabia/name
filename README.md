@@ -51,7 +51,7 @@ Acredito que o código pode transformar vidas e abrir portas – e estou aqui pr
 <p align="center">
 Feita com 💙 e fé por <strong>Joana Beatriz</strong>
 </p>
-![Minhas Estatísticas no GitHub]
-(https://github-readme-stats.vercel.app/api?username=joanabia&show_icons=true&theme=tokyonigt&bg_color=0d1117&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff) 
+![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=joanabia&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff) 
+
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joanabia&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9) 
