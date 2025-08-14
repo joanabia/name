@@ -43,7 +43,7 @@ Acredito que o código pode transformar vidas e abrir portas – e estou aqui pr
 ### 📫 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/joanabeatriz)
-- 💖 [Instagram](https://instagram.com/robertinho.araujo.9)
+- 💖 [Instagram](https://instagram.com/bia55441)
 - 🌐 Em breve: [renascertododia.com](https://renascertododia.com)
 
 ---
