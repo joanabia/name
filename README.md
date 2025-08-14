@@ -60,7 +60,7 @@ Feita com 💙 e fé por <strong>Joana Beatriz</strong>
 
 <br><br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joanabia&show_icons=true&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JOANABIA&show_icons=true&theme=radical
 
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOANABIA&layout=compact&theme=radical)
